@@ -182,7 +182,7 @@
                                         <a href="{}" style="color:#3b5998;text-decoration:none;display:block" target="_blank">
                                           <center>
                                             <font size="3">
-                                              <span style="font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;color:#ffffff;font-size:14px;line-height:14px"><a href="{{.URL}}">Review&nbsp;Login</a></span>
+                                              <a href="{{.URL}}"><span style="font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;color:#ffffff;font-size:14px;line-height:14px">Review&nbsp;Login</span></a>
                                             </font>
                                           </center>
                                         </a>
