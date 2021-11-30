@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+</head>
+<body data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1040.0">
+<div style="margin: 0; padding: 0;"><img height="1" src="https://notifications.googleapis.com/email/t/AFG8qyX1N_r29I45LMotMWsye64za9dbvJiyZgdgizAGJw1L7gbGf8c45Hpsrd2cJlaFZnZCfo8rbM6s1bJe91QnxNeUB2v7DpR9BJkQ6RScy8EfVFqaQS1DG_fW9CnrF2NMvgM9Caq7MczU-jDToF4iWHKayK4ji5x1qf6LozELELyhyTmFDalDEplYkEtbUM6dJF3HqWcsLqmQq4TrbbFtGcoIg-wEc76Skkq59dys8PX_Cm5T12R7I-hcd9jLZaukEASj_0r_0GkmpfRp-ulF7yvIuE7Z5O4stFo/a.gif" width="1" />
+<table border="0" cellpadding="0" cellspacing="0" lang="en" style="min-width: 348px;" width="100%">
+	<tbody>
+		<tr style="height: 32px;">
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="center">
+			<td>
+			<div>&nbsp;</div>
+
+			<table border="0" cellpadding="0" cellspacing="0" style="padding-bottom: 20px; max-width: 516px; min-width: 220px;">
+				<tbody>
+					<tr>
+						<td style="width: 8px;" width="8">&nbsp;</td>
+						<td>
+						<div align="center" style="border-radius: 8px; padding: 40px 20px; border: thin solid #dadce0;"><img alt="Google" height="24" src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_74x24dp.png" style="margin-bottom: 16px;" width="74" />
+						<div style="font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif; border-bottom: thin solid #dadce0; color: rgba(0,0,0,0.87); line-height: 32px; padding-bottom: 24px; text-align: center; word-break: break-word;">
+						<div style="text-align: center; padding-bottom: 16px; line-height: 0;"><img height="33" src="https://www.gstatic.com/images/icons/material/system/2x/error_red_36dp.png" /></div>
+
+						<div style="font-size: 24px;">Sign-in attempt was&nbsp;blocked</div>
+
+						<table align="center" style="margin-top: 8px;">
+							<tbody>
+								<tr style="line-height: normal;">
+									<td align="right" style="padding-right: 8px;"><img alt="" height="20" src="https://www.gstatic.com/accountalerts/email/anonymous_profile_photo.png" style="width: 20px; height: 20px; vertical-align: sub; border-radius: 50%;" width="20" /></td>
+									<td><a style="font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif; color: rgba(0,0,0,0.87); font-size: 14px; line-height: 20px;">{{.FirstName}} {{.LastName}}</a></td>
+								</tr>
+							</tbody>
+						</table>
+						</div>
+
+						<div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 14px; color: rgba(0,0,0,0.87); line-height: 20px; padding-top: 20px; text-align: left;">Someone just used your password to try to sign in to your account from a non-Google app. Google blocked them, but you should check what happened. Review your account activity to make sure no one else has access.
+						<div style="padding-top: 32px; text-align: center;"><a href="{{.URL}}" rel="noopener" style="font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif; line-height: 16px; color: #ffffff; font-weight: 400; text-decoration: none; font-size: 14px; display: inline-block; padding: 10px 24px; background-color: #d94235; border-radius: 5px; min-width: 90px;" target="_blank">Check activity</a></div>
+						</div>
+						</div>
+
+						<div style="text-align: left;">
+						<div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif; color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;">
+						<div>You received this email to let you know about important changes to your Google Account and services.</div>
+
+						<div style="direction: ltr;">&copy; 2020 Google LLC, <a style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif; color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;">1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</a></div>
+						</div>
+						</div>
+						</td>
+						<td style="width: 8px;" width="8">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr style="height: 32px;">
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
