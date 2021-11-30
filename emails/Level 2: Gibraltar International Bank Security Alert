@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<div style="margin: 0; padding: 0;">
+<table border="0" cellpadding="0" cellspacing="0" lang="en" style="min-width: 348px;" width="100%">
+	<tbody>
+		<tr style="height: 32px;">
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="center">
+			<td>
+			<div>&nbsp;</div>
+
+			<table border="0" cellpadding="0" cellspacing="0" style="padding-bottom: 20px; max-width: 516px; min-width: 220px;">
+				<tbody>
+					<tr>
+						<td style="width: 8px;" width="8">&nbsp;</td>
+						<td>
+						<div align="center" style="padding: 40px 20px;">
+						<div style="font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif; color: rgba(0,0,0,0.87); line-height: 32px; padding-bottom: 24px; text-align: center; word-break: break-word;">
+						</div>
+
+						<div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 14px; color: rgba(0,0,0,0.87); line-height: 20px; padding-top: 20px; text-align: left;"><p>Dear Client,</p>
+                            <p>If you receive an SMS or email purporting to be from Gibraltar International Bank requesting you to click on a link, please ignore and do not action as this is a scam.</p>
+                            <p>PLEASE REMEMBER that the bank would never contact you to ask you to click on a link and divulge your personal security information, i.e. username & password.</p>
+                            
+
+
+						<div style="padding-top: 32px; padding-bottom: 32px;text-align: center;"><a href="{{.URL}}" rel="noopener" style="font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif; line-height: 16px; color: #ffffff; font-weight: 400; text-decoration: none; font-size: 14px; display: inline-block; padding: 10px 24px; background-color: #d94235; border-radius: 5px; min-width: 90px;" target="_blank">Check Online Banking Security</a></div>
+						
+						<p>If you have any queries or require assistance please phone our General Enquiries number on +350 20013900 or email gibraltar@gibintbank.gi.</p>
+						<p>For up-to-date information, please follow us on our social media pages & visit our website.</p>
+						<p>Thanking you,</p>
+						<p>Gibraltar International Bank<br /><br /></p>
+						</div>
+						<img src="https://0w1ky.mjt.lu/tplimg/0w1ky/b/sgi3l/t0oi.png">
+						<div style="font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 14px; color: rgba(0,0,0,0.87); line-height: 20px; padding-top: 20px; text-align: left;">
+						<p>2021 © Gibraltar International Bank Limited is authorised and regulated by the Gibraltar Financial Services Commission</p>
+						</div>
+
+						</td>
+						<td style="width: 8px;" width="8">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr style="height: 32px;">
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
